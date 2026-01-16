@@ -12,6 +12,8 @@ I love to write random things
 <img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </div>
 
+---
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tutuixa/Tutuixa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tutuixa/Tutuixa/output/github-contribution-grid-snake-dark.svg">
