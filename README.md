@@ -2,6 +2,8 @@
 
 ### Hi my Name is Arthur 😄
 
+I love to write random things
+
 ## Tecnologias que uso no meu dia 💻
 
 <div style="display: inline_block"><br/>
